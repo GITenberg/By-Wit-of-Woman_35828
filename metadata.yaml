@@ -1,0 +1,39 @@
+_repo: By-Wit-of-Woman_35828
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vedder, Simon Harmon
+    alias: Vedder, S. H. (Simon Harmon)
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '37926'
+    url: http://www.gutenberg.org/2009/agents/37926
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marchmont, Arthur W.
+    alias: Marchmont, Arthur Williams
+    birthdate: 1852
+    deathdate: 1923
+    gutenberg_agent_id: '37728'
+    url: http://www.gutenberg.org/2009/agents/37728
+description: ''
+gutenberg_issued: '2011-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Hungary -- Fiction'
+- !lcsh 'Love stories'
+title: By Wit of Woman
+url: http://www.gutenberg.org/ebooks/35828
