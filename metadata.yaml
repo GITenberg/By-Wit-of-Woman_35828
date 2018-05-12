@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '37728'
     url: http://www.gutenberg.org/2009/agents/37728
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35828#By-Wit-of-Woman
 gutenberg_issued: '2011-04-11'
 gutenberg_type: Text
 identifiers:
